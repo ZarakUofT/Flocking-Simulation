@@ -6,6 +6,13 @@
     font-size: 30px;
 }
 
+#click_instruc {
+    font-style: italic;
+    color: rgb(45, 91, 160);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+}
+
 /* .js-code {
     padding-left: 400px;
 } */
